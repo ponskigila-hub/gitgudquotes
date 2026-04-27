@@ -8,5 +8,9 @@
     "name": "Example Student 2",
     "class": "LF07",
     "quote": "A clear commit message helps your future self."
-  }
+  },
+  {
+  "quote": "First, solve the problem. Then, write the code.",
+  "author": "John Johnson"
+}
 ]
